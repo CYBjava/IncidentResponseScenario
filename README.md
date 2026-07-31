@@ -9,3 +9,5 @@ NIST incident response life-cycle is used. Each phase has procedures, the proced
 An employee had their laptop stolen at Starbucks
 
 <h2>Documents</h2>
+
+- [Original Document](https://github.com/CYBjava/IncidentResponseScenario/blob/main/Alvarez_IncidentResponseScenario.docx)
